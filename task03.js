@@ -1,7 +1,7 @@
 "use strict";
 
 /*
-Task 03: FizzBuzz Checker
+Task 03 FizzBuzz Checker
 
 📝 Instructions
 - Create a function named fizzBuzz
