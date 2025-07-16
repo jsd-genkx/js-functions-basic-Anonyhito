@@ -1,7 +1,7 @@
 "use strict";
 
 /*
-Task 02: Check Even or Odd
+Task 02 Check Even or Odd
 
 📝 Instructions
 - Create a function named checkEvenOrOdd
