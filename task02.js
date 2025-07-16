@@ -12,6 +12,9 @@ Task 02: Check Even or Odd
 ❌ Do not print inside the function.
 ✅ Only return the result.
 */
+function checkEvenOrOdd(number) {
+  return number % 2 === 0 ? "Even" : "Odd";
+}
 
 // 👨‍💻 TODO-01: Write your code below to complete the task as described above.
 
