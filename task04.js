@@ -1,7 +1,7 @@
 "use strict";
 
 /*
-Task 04: Traffic Light Action
+Task 04 Traffic Light Action
 
 📝 Instructions
 - Create a function named trafficLightAction
